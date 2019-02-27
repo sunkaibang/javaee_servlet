@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="DatabaseBigWork"
+  id="myeclipse.1510925032921"
+  context-root="/DatabaseBigWork"
+  j2ee-spec="5.0"
+  archive="DatabaseBigWork.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

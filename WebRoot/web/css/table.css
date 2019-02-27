@@ -1,0 +1,24 @@
+table {
+	border-collapse: collapse;
+}
+
+table tr td {
+	border: #000000 solid 1px;
+}
+
+table tr th {
+	border: #000000 solid 1px;
+	background-color: #808080;
+}
+
+.danShu {
+	background-color: cyan;
+}
+
+.move {
+	background-color: #FF0000;
+}
+
+.shuangShu {
+	background-color: #D8BFD8;
+}
